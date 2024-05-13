@@ -1,0 +1,29 @@
+
+Meditab intro/Dosepack Intro - 1 page
+
+CRM Explaination/Bottle Sorter complete - 6 pages
+
+Chapter 2: Projects Overview - 2 page
+
+Chapter 3: Bottle Sorter - 10
+- Postman API testing
+- Dashboard 
+- Bottle Measurement Device (explain principle and full design)
+- Pulse determination
+- Rack Design includes structure 3x3 3x1 with top covers, drawings, BOM, Gauge
+- Gripper changes Z axis
+- Pulse bug fix
+
+
+
+Chapter 4: Pack cutter - 10
+- Nichrome wire
+- Manual Design (Take photos)
+
+Chapter 5: Dosepack - 10
+- Car code
+- Car Quality check
+- Testing
+- Robotic arm
+
+Chapter 6: Conclusion - 1
